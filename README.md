@@ -1,3 +1,3 @@
-Cracking the Coding Interview 6th Edition
+# Cracking the Coding Interview 6th Edition
 
-Adding test cases and solutions in Java & Scala
+Adding templates, solutions, and test cases
