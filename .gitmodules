@@ -1,3 +1,3 @@
 [submodule "scala"]
 	path = scala
-	url = https://github.com/travisemichael/ctci-6-scala
+	url = https://github.com/travisemichael/ctci-6-scala.git
